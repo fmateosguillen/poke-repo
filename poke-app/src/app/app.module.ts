@@ -19,7 +19,7 @@ import { PokemonService } from './services/pokemon.service';
     BrowserModule,
     BrowserAnimationsModule,
     MatTableModule,
-    HttpClientModule,
+    HttpClientModule
   ],
   providers: [PokemonService],
   bootstrap: [AppComponent]
